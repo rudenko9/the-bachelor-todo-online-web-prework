@@ -1,5 +1,6 @@
 def get_first_name_of_season_winner(data, season)
-  ("season 10").collect do |data|
+  season_10.collect do |data|
+    
 end
 end
 
