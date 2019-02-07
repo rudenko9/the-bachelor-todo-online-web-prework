@@ -11,7 +11,8 @@ end
 
 
 def get_contestant_name(data, occupation)
-  
+  data[occupation].each do |people|
+    
 end
 
 def count_contestants_by_hometown(data, hometown)
