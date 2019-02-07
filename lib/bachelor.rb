@@ -65,5 +65,3 @@ def get_average_age_for_season(data, season)
   return answer
 end
   
-  
-end
